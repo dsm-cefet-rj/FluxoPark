@@ -2,14 +2,14 @@
 
 Repositório: https://github.com/DanDezerto/FluxoPark
 
-A nota de cada aluno é a parte comum do grupo mais a qualidade individual. Sem autoria efetiva na própria parte, a AV1 fica 0. A parte comum vale 60 pontos: stack da disciplina (30) e escopo funcionando (30). Os 40 restantes avaliam a qualidade do que o próprio aluno fez.
+A nota de cada aluno é a parte comum do grupo mais a qualidade individual. Quem não tem commit no repositório recebe a parte comum do grupo, sem a parte individual. A parte comum vale 60 pontos: stack da disciplina (30) e escopo funcionando (30). Os 40 restantes avaliam a qualidade do que o próprio aluno fez.
 
 | Aluno | Nota |
 | --- | ---: |
 | Daniel Dezerto Rimes | 92 |
 | Ricardo Garcia Franco | 92 |
 | Fernando Lira Barbosa | 88 |
-| Walter Veridiano dos Santos | 0 |
+| Walter Veridiano dos Santos | 52 |
 
 ## Parte comum — 52/60
 
@@ -58,6 +58,6 @@ Desconto na parte individual:
 
 O formulário da reserva, o esquema Zod e a consulta com TanStack Query estão nessa parte e foram os que gravaram a reserva conferida acima.
 
-## Walter Veridiano dos Santos — 0
+## Walter Veridiano dos Santos — 52
 
-Não há commit, e-mail nem arquivo com o nome dele no repositório. O refinamento de 09/09/2026 inclui o nome dele no grupo. Sem commit próprio, a AV1 fica 0.
+Não há commit, e-mail nem arquivo com o nome dele no repositório. O refinamento de 09/09/2026 inclui o nome dele no grupo. A nota é a parte comum do grupo, 52 pontos. Sem commit, não há parte individual a avaliar.
